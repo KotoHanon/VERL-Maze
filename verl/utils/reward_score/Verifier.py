@@ -30,7 +30,6 @@ class VerifierMaze(object):
 
     def _get_position(self, maze_str):
         position_array = self.str2array(maze_str)
-        position_array = position_array.T
         rect_x, rect_y = np.where(position_array == 1)
         oval_x, oval_y = np.where(position_array == 2)
         hell_x, hell_y = np.where(position_array == 3)
