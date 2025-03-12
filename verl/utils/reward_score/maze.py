@@ -1,4 +1,5 @@
 import re
+from . import Verifier
 
 def extract_answer(solution_str):
     #solution = [sol.split("<answer>")[-1].split("<answer>").strip() for sol in solution_str]
@@ -13,7 +14,10 @@ def extract_answer(solution_str):
 
     return final_answer
 
-def compute_score(solution_str, ground_truth, format_score=0.2, score=1.):
+def compute_score(solution_str, current_map, format_score=0, score=1.):
+    current_map = current_map.replace("\n", "")
+    if(len(current_map) != 16):
+        return 0
     reward = 0
     pattern = r"\s*<answer>.*?</answer>"
     match = re.match(pattern, solution_str)
@@ -21,7 +25,9 @@ def compute_score(solution_str, ground_truth, format_score=0.2, score=1.):
         reward = reward + format_score
 
     answer = extract_answer(solution_str)
-    if answer == ground_truth:
+    if answer is None:
+        return reward
+    elif Verifier.VerifierMaze(current_map).verify(answer):
           reward = reward + score
 
     return reward
