@@ -25,14 +25,15 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-    train_dataset = datasets.load_dataset("csv",data_files="/root/LLM-Reasoning-Maze/Data/processed_train_data.csv", split="train")
-    test_dataset = datasets.load_dataset("csv",data_files="/root/LLM-Reasoning-Maze/Data/processed_test_data.csv", split="train")
+    train_dataset = datasets.load_dataset("csv",data_files="processed_train_data.csv", split="train")
+    test_dataset = datasets.load_dataset("csv",data_files="processed_test_data.csv", split="train")
 
     def make_map_fn(split):
 
         def process_fn(example, idx):
             #map = example.pop("map") # 地图
             question_raw = example.pop("instruct") # 具体位置
+            current_map = example.pop("map") # 当前地图
 
             question = SYSTEM_PROMPT + ' ' + question_raw
             answer_raw = example.pop("action_seq") # 动作序列
@@ -53,6 +54,7 @@ if __name__ == "__main__":
                     'index': idx,
                     'answer': answer_raw,
                     "question": question_raw,
+                    "current_map": current_map,
                 }
             }
 
