@@ -35,7 +35,7 @@ def _default_compute_score(data_source, solution_str, ground_truth, extra_info=N
         res = geo3k.compute_score(solution_str, ground_truth)
     elif data_source == "maze":
         from . import maze
-        res = maze.compute_score(solution_str, ground_truth)
+        res = maze.compute_score(solution_str, current_map=extra_info["current_map"])
     else:
         raise NotImplementedError
 
