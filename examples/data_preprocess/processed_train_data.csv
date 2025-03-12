@@ -1,0 +1,3292 @@
+map,action_seq,instruct
+"1000
+0003
+3200
+0000
+",RULRDD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (3, 1), (0, 2)."
+"1200
+0003
+0000
+0300
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (3, 1), (1, 3)."
+"1000
+2000
+0030
+0003
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (2, 2), (3, 3)."
+"1300
+0000
+3000
+2000
+",DRDDL,"The agent is at (0, 0). The goal is at (0, 3). Obstacles are located at (1, 0), (0, 2)."
+"1002
+0033
+0000
+0000
+",RRR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (2, 1), (3, 1)."
+"1020
+0000
+0030
+0003
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (2, 2), (3, 3)."
+"1230
+0000
+0000
+0030
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (2, 0), (2, 3)."
+"1003
+0000
+0203
+0000
+",DRD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (3, 0), (3, 2)."
+"1300
+0000
+0302
+0000
+",DDRRR,"The agent is at (0, 0). The goal is at (3, 2). Obstacles are located at (1, 0), (1, 2)."
+"1020
+0000
+3000
+0003
+",RUR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (0, 2), (3, 3)."
+"1300
+2300
+0000
+0000
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (1, 0), (1, 1)."
+"1030
+0002
+0003
+0000
+",DLRRR,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (2, 0), (3, 2)."
+"1300
+0000
+0320
+0000
+",DDRR,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (1, 0), (1, 2)."
+"
+",,No agent found. No goal found. No obstacles present.
+"1300
+0000
+0003
+2000
+",DDD,"The agent is at (0, 0). The goal is at (0, 3). Obstacles are located at (1, 0), (3, 2)."
+"1000
+0000
+3002
+0300
+",RRDRD,"The agent is at (0, 0). The goal is at (3, 2). Obstacles are located at (0, 2), (1, 3)."
+"1002
+0000
+0003
+0300
+",RRR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (3, 2), (1, 3)."
+"1000
+3020
+0000
+0300
+",RRD,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (0, 1), (1, 3)."
+"1002
+0003
+0003
+0000
+",RRR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (3, 1), (3, 2)."
+"1032
+0000
+0030
+0000
+",DRRRU,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (2, 0), (2, 2)."
+"1020
+0000
+0000
+0303
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (1, 3), (3, 3)."
+"1020
+0000
+0330
+0000
+",RUR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (1, 2), (2, 2)."
+"1020
+0030
+0000
+0030
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (2, 1), (2, 3)."
+"1020
+0000
+0003
+0003
+",URR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (3, 2), (3, 3)."
+"1033
+2000
+0000
+0000
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (2, 0), (3, 0)."
+"1320
+0030
+0000
+0000
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (1, 0), (2, 1)."
+"1000
+0020
+0030
+0003
+",RDR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (2, 2), (3, 3)."
+"1030
+3000
+0200
+0000
+",DRD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (2, 0), (0, 1)."
+"1200
+0000
+0000
+3300
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (0, 3), (1, 3)."
+"1000
+0332
+0000
+0000
+",RURRD,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (1, 1), (2, 1)."
+"1000
+0020
+3000
+0300
+",DRR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (0, 2), (1, 3)."
+"1000
+2030
+0000
+0030
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (2, 1), (2, 3)."
+"1000
+2000
+0030
+0030
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (2, 2), (2, 3)."
+"1023
+0003
+0000
+0000
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (3, 0), (3, 1)."
+"1030
+0000
+0000
+2300
+",DDD,"The agent is at (0, 0). The goal is at (0, 3). Obstacles are located at (2, 0), (1, 3)."
+"1000
+2000
+0030
+0300
+",UD,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (2, 2), (1, 3)."
+"1000
+0000
+3002
+0300
+",LRRDDR,"The agent is at (0, 0). The goal is at (3, 2). Obstacles are located at (0, 2), (1, 3)."
+"1000
+0000
+0230
+0003
+",RDD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (2, 2), (3, 3)."
+"1000
+0003
+3000
+2000
+",DDD,"The agent is at (0, 0). The goal is at (0, 3). Obstacles are located at (3, 1), (0, 2)."
+"1003
+0000
+0300
+2000
+",DRDLD,"The agent is at (0, 0). The goal is at (0, 3). Obstacles are located at (3, 0), (1, 2)."
+"1032
+0000
+3000
+0000
+",LRRR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (2, 0), (0, 2)."
+"1003
+0200
+3000
+0000
+",DR,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (3, 0), (0, 2)."
+"1000
+3003
+0000
+0020
+",DDLRDR,"The agent is at (0, 0). The goal is at (2, 3). Obstacles are located at (0, 1), (3, 1)."
+"1000
+0030
+0000
+2003
+",DDD,"The agent is at (0, 0). The goal is at (0, 3). Obstacles are located at (2, 1), (3, 3)."
+"1300
+0020
+0000
+0300
+",RDR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (1, 0), (1, 3)."
+"1300
+0000
+0020
+0003
+",DRRD,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (1, 0), (3, 3)."
+"1000
+3000
+0203
+0000
+",DDDRU,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (0, 1), (3, 2)."
+"1000
+3200
+0000
+0300
+",DR,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (0, 1), (1, 3)."
+"1300
+0000
+0032
+0000
+",RUDRRD,"The agent is at (0, 0). The goal is at (3, 2). Obstacles are located at (1, 0), (2, 2)."
+"1000
+0000
+0000
+3032
+",RRRDDD,"The agent is at (0, 0). The goal is at (3, 3). Obstacles are located at (0, 3), (2, 3)."
+"1000
+0300
+2003
+0000
+",URDLD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (1, 1), (3, 2)."
+"1200
+0000
+0003
+0300
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (3, 2), (1, 3)."
+"1003
+0000
+2000
+0030
+",DD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (3, 0), (2, 3)."
+"1000
+0002
+3003
+0000
+",UURRDR,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (0, 2), (3, 2)."
+"1030
+0000
+0300
+0200
+",DDDDR,"The agent is at (0, 0). The goal is at (1, 3). Obstacles are located at (2, 0), (1, 2)."
+"1003
+0000
+0020
+0300
+",DDRR,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (3, 0), (1, 3)."
+"1000
+0030
+2003
+0000
+",DD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (2, 1), (3, 2)."
+"1203
+0000
+0000
+3000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (3, 0), (0, 3)."
+"1300
+0000
+0032
+0000
+",RRDDR,"The agent is at (0, 0). The goal is at (3, 2). Obstacles are located at (1, 0), (2, 2)."
+"1300
+2000
+0300
+0000
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (1, 0), (1, 2)."
+"1000
+0000
+0300
+3200
+",DDUDRD,"The agent is at (0, 0). The goal is at (1, 3). Obstacles are located at (1, 2), (0, 3)."
+"1300
+0020
+0030
+0000
+",DRR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (1, 0), (2, 2)."
+"1002
+0000
+0000
+3030
+",RRR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (0, 3), (2, 3)."
+"1000
+0000
+3000
+0230
+",DDRD,"The agent is at (0, 0). The goal is at (1, 3). Obstacles are located at (0, 2), (2, 3)."
+"1020
+0000
+3030
+0000
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (0, 2), (2, 2)."
+"1200
+0003
+0000
+0300
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (3, 1), (1, 3)."
+"1000
+3200
+3000
+0000
+",RD,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (0, 1), (0, 2)."
+"1303
+0000
+2000
+0000
+",DD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (1, 0), (3, 0)."
+"1200
+0000
+0303
+0000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (1, 2), (3, 2)."
+"1000
+0000
+0023
+0030
+",DRRD,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (3, 2), (2, 3)."
+"1030
+0000
+0000
+2003
+",UUUDDD,"The agent is at (0, 0). The goal is at (0, 3). Obstacles are located at (2, 0), (3, 3)."
+"1000
+3020
+0000
+0030
+",RRD,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (0, 1), (2, 3)."
+"1030
+3000
+0020
+0000
+",DUDRDR,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (2, 0), (0, 1)."
+"1000
+2303
+0000
+0000
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (1, 1), (3, 1)."
+"1000
+2003
+0000
+3000
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (3, 1), (0, 3)."
+"1000
+0000
+0203
+3000
+",DRD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (3, 2), (0, 3)."
+"1030
+0003
+0000
+0200
+",DDRD,"The agent is at (0, 0). The goal is at (1, 3). Obstacles are located at (2, 0), (3, 1)."
+"1000
+0000
+0000
+3032
+",DRRRDD,"The agent is at (0, 0). The goal is at (3, 3). Obstacles are located at (0, 3), (2, 3)."
+"1000
+3002
+0300
+0000
+",RRDR,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (0, 1), (1, 2)."
+"1300
+0300
+0200
+0000
+",RDD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (1, 0), (1, 1)."
+"1000
+0000
+0330
+0200
+",URDDD,"The agent is at (0, 0). The goal is at (1, 3). Obstacles are located at (1, 2), (2, 2)."
+"1320
+0000
+0030
+0000
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (1, 0), (2, 2)."
+"1020
+0000
+0003
+3000
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (3, 2), (0, 3)."
+"1000
+0000
+0320
+0003
+",RDRD,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (1, 2), (3, 3)."
+"1003
+0200
+0003
+0000
+",DR,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (3, 0), (3, 2)."
+"1000
+0002
+0000
+0330
+",RDRR,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (1, 3), (2, 3)."
+"1203
+0000
+0003
+0000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (3, 0), (3, 2)."
+"1000
+3002
+0030
+0000
+",RRLRDR,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (0, 1), (2, 2)."
+"1000
+0000
+0203
+3000
+",RDD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (3, 2), (0, 3)."
+"1003
+0000
+0000
+3200
+",DRDD,"The agent is at (0, 0). The goal is at (1, 3). Obstacles are located at (3, 0), (0, 3)."
+"1000
+0302
+0003
+0000
+",RDRR,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (1, 1), (3, 2)."
+"1000
+0200
+0300
+0030
+",LRD,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (1, 2), (2, 3)."
+"1002
+0300
+0000
+0300
+",URRR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (1, 1), (1, 3)."
+"1030
+0000
+0203
+0000
+",DRD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (2, 0), (3, 2)."
+"1000
+2030
+0000
+0300
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (2, 1), (1, 3)."
+"1000
+0002
+0033
+0000
+",RRRD,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (2, 2), (3, 2)."
+"1320
+0000
+3000
+0000
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (1, 0), (0, 2)."
+"1002
+0030
+0003
+0000
+",RRR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (2, 1), (3, 2)."
+"1000
+0000
+0000
+0323
+",RDRDD,"The agent is at (0, 0). The goal is at (2, 3). Obstacles are located at (1, 3), (3, 3)."
+"1020
+0030
+3000
+0000
+",RLRR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (2, 1), (0, 2)."
+"1300
+0000
+0200
+3000
+",DDLR,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (1, 0), (0, 3)."
+"1000
+0030
+0203
+0000
+",RDUDD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (2, 1), (3, 2)."
+"1000
+3020
+0000
+0030
+",RRD,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (0, 1), (2, 3)."
+"1000
+0000
+0000
+3320
+",RRDDD,"The agent is at (0, 0). The goal is at (2, 3). Obstacles are located at (0, 3), (1, 3)."
+"1000
+0000
+3200
+3000
+",RDD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (0, 2), (0, 3)."
+"1020
+0000
+0000
+3003
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (0, 3), (3, 3)."
+"1000
+0032
+0000
+0003
+",RLRRRD,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (2, 1), (3, 3)."
+"1000
+3200
+0003
+0000
+",RD,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (0, 1), (3, 2)."
+"1002
+0000
+0033
+0000
+",DRRRU,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (2, 2), (3, 2)."
+"1002
+3000
+0030
+0000
+",RRR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (0, 1), (2, 2)."
+"1030
+0020
+0030
+0000
+",DRR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (2, 0), (2, 2)."
+"1000
+0200
+0003
+0003
+",RD,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (3, 2), (3, 3)."
+"1000
+0200
+0000
+3030
+",DR,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (0, 3), (2, 3)."
+"1200
+0000
+3030
+0000
+",LR,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (0, 2), (2, 2)."
+"1000
+0000
+0200
+0033
+",DDR,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (2, 3), (3, 3)."
+"1203
+0000
+0000
+3000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (3, 0), (0, 3)."
+"1030
+0003
+0000
+0020
+",LDDDRR,"The agent is at (0, 0). The goal is at (2, 3). Obstacles are located at (2, 0), (3, 1)."
+"1000
+0000
+0302
+0030
+",RRRDD,"The agent is at (0, 0). The goal is at (3, 2). Obstacles are located at (1, 2), (2, 3)."
+"1000
+2300
+0000
+0003
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (1, 1), (3, 3)."
+"1000
+3000
+0200
+3000
+",URUDD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (0, 1), (0, 3)."
+"1000
+0300
+2000
+0030
+",RDDL,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (1, 1), (2, 3)."
+"1000
+0302
+0030
+0000
+",RRRD,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (1, 1), (2, 2)."
+"1200
+0003
+0003
+0000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (3, 1), (3, 2)."
+"1030
+0300
+2000
+0000
+",ULUDLD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (2, 0), (1, 1)."
+"1002
+0000
+0003
+3000
+",RRR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (3, 2), (0, 3)."
+"1300
+0020
+0000
+0300
+",DRR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (1, 0), (1, 3)."
+"
+",,No agent found. No goal found. No obstacles present.
+"1002
+0003
+0003
+0000
+",RRR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (3, 1), (3, 2)."
+"1003
+0000
+0230
+0000
+",LLDRD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (3, 0), (2, 2)."
+"1003
+0000
+0000
+3002
+",DDRRDR,"The agent is at (0, 0). The goal is at (3, 3). Obstacles are located at (3, 0), (0, 3)."
+"
+",,No agent found. No goal found. No obstacles present.
+"
+",,No agent found. No goal found. No obstacles present.
+"1003
+0000
+0000
+2003
+",DDD,"The agent is at (0, 0). The goal is at (0, 3). Obstacles are located at (3, 0), (3, 3)."
+"1003
+0020
+0000
+0003
+",RRD,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (3, 0), (3, 3)."
+"1000
+3000
+0000
+2300
+",DDD,"The agent is at (0, 0). The goal is at (0, 3). Obstacles are located at (0, 1), (1, 3)."
+"1003
+0000
+0000
+2003
+",DLDD,"The agent is at (0, 0). The goal is at (0, 3). Obstacles are located at (3, 0), (3, 3)."
+"1030
+0000
+2000
+0003
+",DD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (2, 0), (3, 3)."
+"1000
+0032
+0000
+0300
+",RDRR,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (2, 1), (1, 3)."
+"1030
+0000
+0030
+0200
+",DDLLDR,"The agent is at (0, 0). The goal is at (1, 3). Obstacles are located at (2, 0), (2, 2)."
+"1000
+0000
+0000
+2330
+",DDD,"The agent is at (0, 0). The goal is at (0, 3). Obstacles are located at (1, 3), (2, 3)."
+"1000
+3200
+0003
+0000
+",RD,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (0, 1), (3, 2)."
+"1000
+3003
+0020
+0000
+",LRRDD,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (0, 1), (3, 1)."
+"1000
+0000
+2000
+3300
+",DD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (0, 3), (1, 3)."
+"1000
+0020
+0003
+0030
+",RDR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (3, 2), (2, 3)."
+"1000
+3200
+0003
+0000
+",RD,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (0, 1), (3, 2)."
+"1003
+0200
+0000
+0300
+",DR,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (3, 0), (1, 3)."
+"1203
+0000
+0000
+0300
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (3, 0), (1, 3)."
+"1020
+3030
+0000
+0000
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (0, 1), (2, 1)."
+"1200
+0003
+0030
+0000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (3, 1), (2, 2)."
+"
+",,No agent found. No goal found. No obstacles present.
+"1000
+2003
+0000
+3000
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (3, 1), (0, 3)."
+"1000
+0020
+0003
+0003
+",LRDR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (3, 2), (3, 3)."
+"1320
+0300
+0000
+0000
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (1, 0), (1, 1)."
+"1023
+3000
+0000
+0000
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (3, 0), (0, 1)."
+"1030
+2000
+0003
+0000
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (2, 0), (3, 2)."
+"1000
+0002
+0030
+0003
+",RRDR,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (2, 2), (3, 3)."
+"1002
+0003
+0030
+0000
+",URRR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (3, 1), (2, 2)."
+"1320
+0003
+0000
+0000
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (1, 0), (3, 1)."
+"
+",,No agent found. No goal found. No obstacles present.
+"1000
+0200
+0300
+0300
+",DR,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (1, 2), (1, 3)."
+"1000
+0003
+0230
+0000
+",UDDR,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (3, 1), (2, 2)."
+"1233
+0000
+0000
+0000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (2, 0), (3, 0)."
+"1003
+0000
+0320
+0000
+",DRRD,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (3, 0), (1, 2)."
+"1000
+2003
+0000
+0300
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (3, 1), (1, 3)."
+"1000
+0000
+0320
+3000
+",RRDD,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (1, 2), (0, 3)."
+"1000
+0002
+3300
+0000
+",RRRD,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (0, 2), (1, 2)."
+"1020
+0000
+0030
+0300
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (2, 2), (1, 3)."
+"1000
+0230
+0300
+0000
+",RD,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (2, 1), (1, 2)."
+"1002
+0330
+0000
+0000
+",RRUR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (1, 1), (2, 1)."
+"1000
+0000
+2000
+0303
+",DD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (1, 3), (3, 3)."
+"1000
+2000
+0003
+3000
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (3, 2), (0, 3)."
+"1030
+0000
+0000
+2003
+",DDD,"The agent is at (0, 0). The goal is at (0, 3). Obstacles are located at (2, 0), (3, 3)."
+"1030
+0000
+0020
+0003
+",DRDR,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (2, 0), (3, 3)."
+"
+",,No agent found. No goal found. No obstacles present.
+"
+",,No agent found. No goal found. No obstacles present.
+"1200
+0003
+0030
+0000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (3, 1), (2, 2)."
+"1000
+0020
+3030
+0000
+",RDR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (0, 2), (2, 2)."
+"1000
+2030
+0000
+0003
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (2, 1), (3, 3)."
+"1032
+0000
+0030
+0000
+",DRRUR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (2, 0), (2, 2)."
+"1300
+0200
+0000
+3000
+",DR,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (1, 0), (0, 3)."
+"1000
+3020
+0300
+0000
+",DRR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (0, 1), (1, 2)."
+"1023
+0030
+0000
+0000
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (3, 0), (2, 1)."
+"1000
+0002
+0003
+0003
+",RDRR,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (3, 2), (3, 3)."
+"1003
+0002
+0000
+0003
+",RRDR,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (3, 0), (3, 3)."
+"1003
+0020
+0000
+0030
+",DDRUR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (3, 0), (2, 3)."
+"1030
+0000
+3000
+0200
+",DLLDDR,"The agent is at (0, 0). The goal is at (1, 3). Obstacles are located at (2, 0), (0, 2)."
+"1000
+3300
+0200
+0000
+",RRLDD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (0, 1), (1, 1)."
+"1000
+2000
+0030
+0300
+",LD,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (2, 2), (1, 3)."
+"1000
+0020
+3003
+0000
+",DRR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (0, 2), (3, 2)."
+"
+",,No agent found. No goal found. No obstacles present.
+"1030
+0000
+0000
+2030
+",DDD,"The agent is at (0, 0). The goal is at (0, 3). Obstacles are located at (2, 0), (2, 3)."
+"1000
+0200
+0003
+0030
+",DDRU,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (3, 2), (2, 3)."
+"1000
+0002
+0000
+3300
+",DRRR,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (0, 3), (1, 3)."
+"1030
+0020
+0000
+0300
+",DRR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (2, 0), (1, 3)."
+"1000
+3200
+0300
+0000
+",DR,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (0, 1), (1, 2)."
+"1003
+0300
+0020
+0000
+",DDRR,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (3, 0), (1, 1)."
+"1000
+0032
+0000
+3000
+",UURRRD,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (2, 1), (0, 3)."
+"1002
+0000
+0300
+0003
+",RRDRU,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (1, 2), (3, 3)."
+"1000
+0020
+0330
+0000
+",DRR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (1, 2), (2, 2)."
+"1000
+0000
+3203
+0000
+",DRD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (0, 2), (3, 2)."
+"1300
+0023
+0000
+0000
+",RDR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (1, 0), (3, 1)."
+"1000
+0320
+0000
+3000
+",RDDUR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (1, 1), (0, 3)."
+"1000
+2030
+0000
+3000
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (2, 1), (0, 3)."
+"1003
+0000
+0020
+0300
+",LDRDR,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (3, 0), (1, 3)."
+"1303
+0000
+0000
+2000
+",DRLDD,"The agent is at (0, 0). The goal is at (0, 3). Obstacles are located at (1, 0), (3, 0)."
+"1000
+0000
+2000
+0303
+",DD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (1, 3), (3, 3)."
+"
+",,No agent found. No goal found. No obstacles present.
+"1030
+0000
+2000
+3000
+",DD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (2, 0), (0, 3)."
+"1300
+0020
+0000
+0300
+",DRR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (1, 0), (1, 3)."
+"1000
+0000
+0020
+3300
+",RDDR,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (0, 3), (1, 3)."
+"1000
+0200
+0300
+3000
+",DR,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (1, 2), (0, 3)."
+"1200
+3000
+0000
+0003
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (0, 1), (3, 3)."
+"1300
+0030
+0000
+0200
+",RDDD,"The agent is at (0, 0). The goal is at (1, 3). Obstacles are located at (1, 0), (2, 1)."
+"1020
+0300
+0000
+0003
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (1, 1), (3, 3)."
+"1000
+2000
+3030
+0000
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (0, 2), (2, 2)."
+"1030
+0200
+0030
+0000
+",DR,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (2, 0), (2, 2)."
+"1300
+0000
+0020
+3000
+",RDDR,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (1, 0), (0, 3)."
+"1030
+0000
+0200
+0030
+",DRD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (2, 0), (2, 3)."
+"1200
+0030
+0003
+0000
+",UR,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (2, 1), (3, 2)."
+"
+",,No agent found. No goal found. No obstacles present.
+"1002
+0030
+3000
+0000
+",RRR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (2, 1), (0, 2)."
+"1020
+0300
+0000
+0003
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (1, 1), (3, 3)."
+"1020
+0003
+0000
+0003
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (3, 1), (3, 3)."
+"1000
+2003
+0000
+0300
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (3, 1), (1, 3)."
+"1000
+0000
+0000
+2303
+",DDD,"The agent is at (0, 0). The goal is at (0, 3). Obstacles are located at (1, 3), (3, 3)."
+"1000
+0020
+0000
+0330
+",RDR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (1, 3), (2, 3)."
+"1030
+0030
+0000
+0200
+",DRDD,"The agent is at (0, 0). The goal is at (1, 3). Obstacles are located at (2, 0), (2, 1)."
+"1000
+2000
+0300
+0030
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (1, 2), (2, 3)."
+"1000
+0200
+3300
+0000
+",DR,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (0, 2), (1, 2)."
+"1300
+0020
+3000
+0000
+",DRR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (1, 0), (0, 2)."
+"1200
+0300
+0000
+3000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (1, 1), (0, 3)."
+"
+",,No agent found. No goal found. No obstacles present.
+"1302
+0000
+0000
+3000
+",RRR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (1, 0), (0, 3)."
+"1002
+0000
+0330
+0000
+",RDRRU,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (1, 2), (2, 2)."
+"1200
+0300
+0000
+0003
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (1, 1), (3, 3)."
+"1000
+0000
+2030
+3000
+",DD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (2, 2), (0, 3)."
+"
+",,No agent found. No goal found. No obstacles present.
+"1000
+0020
+0000
+3300
+",RRD,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (0, 3), (1, 3)."
+"1020
+0000
+0003
+0003
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (3, 2), (3, 3)."
+"
+",,No agent found. No goal found. No obstacles present.
+"1000
+0320
+0000
+0003
+",RURD,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (1, 1), (3, 3)."
+"1300
+0000
+3200
+0000
+",DRD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (1, 0), (0, 2)."
+"1000
+2000
+0033
+0000
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (2, 2), (3, 2)."
+"1200
+3300
+0000
+0000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (0, 1), (1, 1)."
+"1003
+0003
+0000
+2000
+",DDD,"The agent is at (0, 0). The goal is at (0, 3). Obstacles are located at (3, 0), (3, 1)."
+"1030
+0000
+0000
+2030
+",DDRDL,"The agent is at (0, 0). The goal is at (0, 3). Obstacles are located at (2, 0), (2, 3)."
+"1000
+3002
+3000
+0000
+",RRRD,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (0, 1), (0, 2)."
+"
+",,No agent found. No goal found. No obstacles present.
+"1000
+0002
+0000
+3030
+",RRDR,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (0, 3), (2, 3)."
+"1020
+3000
+0030
+0000
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (0, 1), (2, 2)."
+"1030
+0000
+2300
+0000
+",DD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (2, 0), (1, 2)."
+"1000
+0000
+0030
+2003
+",DUDDD,"The agent is at (0, 0). The goal is at (0, 3). Obstacles are located at (2, 2), (3, 3)."
+"1000
+0030
+0020
+0300
+",DRURDD,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (2, 1), (1, 3)."
+"1200
+0003
+0300
+0000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (3, 1), (1, 2)."
+"1000
+0020
+0030
+3000
+",RRD,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (2, 2), (0, 3)."
+"1030
+2003
+0000
+0000
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (2, 0), (3, 1)."
+"1002
+3300
+0000
+0000
+",RRR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (0, 1), (1, 1)."
+"1200
+0000
+0303
+0000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (1, 2), (3, 2)."
+"1230
+0003
+0000
+0000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (2, 0), (3, 1)."
+"1002
+0000
+3000
+3000
+",RRR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (0, 2), (0, 3)."
+"1200
+3000
+0000
+0300
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (0, 1), (1, 3)."
+"1030
+0000
+0200
+0030
+",DDR,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (2, 0), (2, 3)."
+"1002
+0000
+0300
+0003
+",RRR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (1, 2), (3, 3)."
+"1003
+0320
+0000
+0000
+",DRR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (3, 0), (1, 1)."
+"1230
+0000
+0000
+0300
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (2, 0), (1, 3)."
+"1000
+0020
+3003
+0000
+",DRR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (0, 2), (3, 2)."
+"1000
+0032
+0003
+0000
+",RRRD,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (2, 1), (3, 2)."
+"1303
+0000
+0000
+0200
+",RDDD,"The agent is at (0, 0). The goal is at (1, 3). Obstacles are located at (1, 0), (3, 0)."
+"1200
+3000
+0000
+0300
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (0, 1), (1, 3)."
+"1000
+0000
+3020
+3000
+",RDRD,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (0, 2), (0, 3)."
+"1000
+3000
+0003
+0200
+",DRUDDD,"The agent is at (0, 0). The goal is at (1, 3). Obstacles are located at (0, 1), (3, 2)."
+"1000
+0203
+0003
+0000
+",RD,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (3, 1), (3, 2)."
+"1200
+0000
+0300
+3000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (1, 2), (0, 3)."
+"1020
+0300
+0000
+0030
+",URR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (1, 1), (2, 3)."
+"1003
+0300
+2000
+0000
+",DD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (3, 0), (1, 1)."
+"1000
+3032
+0000
+0000
+",RRRD,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (0, 1), (2, 1)."
+"1003
+2000
+0003
+0000
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (3, 0), (3, 2)."
+"1000
+0000
+0200
+3003
+",DRD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (0, 3), (3, 3)."
+"1020
+0000
+0030
+0300
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (2, 2), (1, 3)."
+"1030
+2000
+0003
+0000
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (2, 0), (3, 2)."
+"1300
+0000
+0200
+0003
+",RDD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (1, 0), (3, 3)."
+"
+",,No agent found. No goal found. No obstacles present.
+"1200
+3003
+0000
+0000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (0, 1), (3, 1)."
+"1000
+0023
+0000
+0030
+",RRD,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (3, 1), (2, 3)."
+"1000
+0002
+0300
+0030
+",DRLRRR,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (1, 2), (2, 3)."
+"
+",,No agent found. No goal found. No obstacles present.
+"1002
+0003
+3000
+0000
+",UURRR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (3, 1), (0, 2)."
+"1003
+0000
+0300
+2000
+",DUDDLD,"The agent is at (0, 0). The goal is at (0, 3). Obstacles are located at (3, 0), (1, 2)."
+"1020
+0000
+3000
+0003
+",RUR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (0, 2), (3, 3)."
+"
+",,No agent found. No goal found. No obstacles present.
+"1003
+0000
+0023
+0000
+",DRRD,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (3, 0), (3, 2)."
+"1200
+0030
+0000
+0003
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (2, 1), (3, 3)."
+"1000
+0000
+0002
+3030
+",DLDRRR,"The agent is at (0, 0). The goal is at (3, 2). Obstacles are located at (0, 3), (2, 3)."
+"1200
+0300
+0030
+0000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (1, 1), (2, 2)."
+"1000
+0000
+3200
+0030
+",DRD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (0, 2), (2, 3)."
+"
+",,No agent found. No goal found. No obstacles present.
+"1000
+2003
+0300
+0000
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (3, 1), (1, 2)."
+"1000
+2000
+3000
+0300
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (0, 2), (1, 3)."
+"1000
+0000
+0230
+0300
+",RDD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (2, 2), (1, 3)."
+"1002
+0003
+0000
+3000
+",RRR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (3, 1), (0, 3)."
+"1000
+0000
+2000
+0033
+",DD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (2, 3), (3, 3)."
+"1020
+0000
+0000
+0303
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (1, 3), (3, 3)."
+"1000
+0003
+0030
+2000
+",RDDDL,"The agent is at (0, 0). The goal is at (0, 3). Obstacles are located at (3, 1), (2, 2)."
+"1020
+0300
+0003
+0000
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (1, 1), (3, 2)."
+"
+",,No agent found. No goal found. No obstacles present.
+"1002
+0300
+3000
+0000
+",RRR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (1, 1), (0, 2)."
+"1200
+0003
+0000
+0030
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (3, 1), (2, 3)."
+"1000
+0020
+0003
+0030
+",RLRDR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (3, 2), (2, 3)."
+"1000
+2000
+0000
+0330
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (1, 3), (2, 3)."
+"1030
+0200
+0000
+0300
+",DR,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (2, 0), (1, 3)."
+"1000
+0030
+0203
+0000
+",RUDD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (2, 1), (3, 2)."
+"1000
+0000
+2003
+0030
+",DRLD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (3, 2), (2, 3)."
+"1000
+0200
+0000
+3003
+",DR,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (0, 3), (3, 3)."
+"1000
+0000
+3032
+0000
+",RRDRD,"The agent is at (0, 0). The goal is at (3, 2). Obstacles are located at (0, 2), (2, 2)."
+"1002
+0000
+0300
+0300
+",RRR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (1, 2), (1, 3)."
+"
+",,No agent found. No goal found. No obstacles present.
+"1030
+0000
+2000
+0003
+",DD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (2, 0), (3, 3)."
+"1002
+0000
+0003
+0030
+",RRUR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (3, 2), (2, 3)."
+"1000
+0000
+0000
+0233
+",DRDD,"The agent is at (0, 0). The goal is at (1, 3). Obstacles are located at (2, 3), (3, 3)."
+"1000
+0000
+0230
+0030
+",DRD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (2, 2), (2, 3)."
+"1000
+2300
+3000
+0000
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (1, 1), (0, 2)."
+"1000
+0300
+0032
+0000
+",LRRDRD,"The agent is at (0, 0). The goal is at (3, 2). Obstacles are located at (1, 1), (2, 2)."
+"1300
+3000
+0020
+0000
+",RLDDRR,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (1, 0), (0, 1)."
+"1300
+0020
+0003
+0000
+",DRR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (1, 0), (3, 2)."
+"1000
+0002
+0000
+3003
+",RDRR,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (0, 3), (3, 3)."
+"1020
+0000
+0000
+3030
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (0, 3), (2, 3)."
+"1000
+0023
+0000
+0300
+",RRUD,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (3, 1), (1, 3)."
+"1303
+0000
+0000
+0020
+",UDDRDR,"The agent is at (0, 0). The goal is at (2, 3). Obstacles are located at (1, 0), (3, 0)."
+"1002
+3000
+0300
+0000
+",RRR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (0, 1), (1, 2)."
+"1200
+0000
+0030
+0300
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (2, 2), (1, 3)."
+"1002
+0000
+0330
+0000
+",RRR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (1, 2), (2, 2)."
+"1000
+0200
+3003
+0000
+",RD,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (0, 2), (3, 2)."
+"1000
+0200
+0030
+0003
+",RD,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (2, 2), (3, 3)."
+"1320
+0300
+0000
+0000
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (1, 0), (1, 1)."
+"1000
+0002
+0300
+3000
+",DRRR,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (1, 2), (0, 3)."
+"1000
+2003
+0000
+0300
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (3, 1), (1, 3)."
+"1020
+0003
+0000
+3000
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (3, 1), (0, 3)."
+"1030
+0000
+0023
+0000
+",DRDR,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (2, 0), (3, 2)."
+"
+",,No agent found. No goal found. No obstacles present.
+"1200
+0030
+0000
+0300
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (2, 1), (1, 3)."
+"1030
+0000
+0230
+0000
+",DRD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (2, 0), (2, 2)."
+"1000
+0300
+0320
+0000
+",RUDRD,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (1, 1), (1, 2)."
+"1300
+0000
+0200
+3000
+",RDD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (1, 0), (0, 3)."
+"1000
+0000
+0300
+0230
+",DDDR,"The agent is at (0, 0). The goal is at (1, 3). Obstacles are located at (1, 2), (2, 3)."
+"1000
+0003
+0002
+3000
+",RRRDD,"The agent is at (0, 0). The goal is at (3, 2). Obstacles are located at (3, 1), (0, 3)."
+"1203
+3000
+0000
+0000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (3, 0), (0, 1)."
+"1002
+3300
+0000
+0000
+",RRR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (0, 1), (1, 1)."
+"1000
+2000
+0030
+0030
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (2, 2), (2, 3)."
+"1030
+0000
+0020
+0030
+",DRRD,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (2, 0), (2, 3)."
+"1300
+0023
+0000
+0000
+",RRD,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (1, 0), (3, 1)."
+"1300
+0000
+2000
+3000
+",DD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (1, 0), (0, 3)."
+"1300
+0020
+0000
+0300
+",DDRRU,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (1, 0), (1, 3)."
+"
+",,No agent found. No goal found. No obstacles present.
+"1000
+0000
+3200
+0003
+",DRD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (0, 2), (3, 3)."
+"1030
+0000
+3200
+0000
+",DRD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (2, 0), (0, 2)."
+"1303
+0020
+0000
+0000
+",DRR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (1, 0), (3, 0)."
+"1000
+0000
+0023
+0003
+",RDDR,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (3, 2), (3, 3)."
+"1000
+0000
+3002
+0003
+",DRRRRD,"The agent is at (0, 0). The goal is at (3, 2). Obstacles are located at (0, 2), (3, 3)."
+"1000
+2000
+0330
+0000
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (1, 2), (2, 2)."
+"1003
+0000
+2003
+0000
+",DD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (3, 0), (3, 2)."
+"1000
+3000
+0020
+3000
+",RRDD,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (0, 1), (0, 3)."
+"1000
+0000
+2030
+0030
+",RDLD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (2, 2), (2, 3)."
+"
+",,No agent found. No goal found. No obstacles present.
+"1020
+0303
+0000
+0000
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (1, 1), (3, 1)."
+"1000
+2033
+0000
+0000
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (2, 1), (3, 1)."
+"
+",,No agent found. No goal found. No obstacles present.
+"
+",,No agent found. No goal found. No obstacles present.
+"1000
+2030
+0000
+0300
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (2, 1), (1, 3)."
+"1000
+0000
+0033
+0200
+",DRDD,"The agent is at (0, 0). The goal is at (1, 3). Obstacles are located at (2, 2), (3, 2)."
+"1000
+0020
+0000
+0303
+",DRR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (1, 3), (3, 3)."
+"
+",,No agent found. No goal found. No obstacles present.
+"1002
+0000
+0003
+0030
+",RDRUR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (3, 2), (2, 3)."
+"1000
+0030
+0200
+0300
+",DRD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (2, 1), (1, 3)."
+"1003
+0020
+3000
+0000
+",RDR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (3, 0), (0, 2)."
+"1030
+0000
+0003
+0200
+",DRDD,"The agent is at (0, 0). The goal is at (1, 3). Obstacles are located at (2, 0), (3, 2)."
+"
+",,No agent found. No goal found. No obstacles present.
+"1000
+0000
+3020
+3000
+",RDRD,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (0, 2), (0, 3)."
+"1000
+3200
+0000
+0030
+",RD,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (0, 1), (2, 3)."
+"1000
+0000
+0200
+0303
+",DRD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (1, 3), (3, 3)."
+"1200
+3000
+0000
+3000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (0, 1), (0, 3)."
+"1003
+0300
+2000
+0000
+",DD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (3, 0), (1, 1)."
+"1002
+0000
+3003
+0000
+",RRR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (0, 2), (3, 2)."
+"
+",,No agent found. No goal found. No obstacles present.
+"
+",,No agent found. No goal found. No obstacles present.
+"1030
+0000
+0000
+2030
+",DDD,"The agent is at (0, 0). The goal is at (0, 3). Obstacles are located at (2, 0), (2, 3)."
+"1033
+0000
+0000
+2000
+",DDD,"The agent is at (0, 0). The goal is at (0, 3). Obstacles are located at (2, 0), (3, 0)."
+"1000
+0030
+2000
+3000
+",LUDD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (2, 1), (0, 3)."
+"1200
+0000
+3030
+0000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (0, 2), (2, 2)."
+"1000
+0020
+0003
+3000
+",RDR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (3, 2), (0, 3)."
+"1000
+0030
+0000
+0203
+",DDRD,"The agent is at (0, 0). The goal is at (1, 3). Obstacles are located at (2, 1), (3, 3)."
+"1000
+3200
+0000
+0300
+",DR,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (0, 1), (1, 3)."
+"1230
+3000
+0000
+0000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (2, 0), (0, 1)."
+"1030
+0000
+2000
+3000
+",DD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (2, 0), (0, 3)."
+"1003
+0020
+3000
+0000
+",DRR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (3, 0), (0, 2)."
+"1000
+0200
+3000
+3000
+",RD,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (0, 2), (0, 3)."
+"1000
+0020
+0300
+0003
+",RDR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (1, 2), (3, 3)."
+"1003
+0000
+2000
+0300
+",DD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (3, 0), (1, 3)."
+"1000
+3000
+0203
+0000
+",RDD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (0, 1), (3, 2)."
+"1000
+0000
+2300
+0003
+",UDD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (1, 2), (3, 3)."
+"1000
+0030
+2000
+0300
+",URDLD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (2, 1), (1, 3)."
+"1003
+0000
+0000
+0230
+",DDRD,"The agent is at (0, 0). The goal is at (1, 3). Obstacles are located at (3, 0), (2, 3)."
+"1000
+0000
+0233
+0000
+",RDD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (2, 2), (3, 2)."
+"
+",,No agent found. No goal found. No obstacles present.
+"1200
+0030
+0000
+3000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (2, 1), (0, 3)."
+"1030
+3000
+0000
+2000
+",DDD,"The agent is at (0, 0). The goal is at (0, 3). Obstacles are located at (2, 0), (0, 1)."
+"1030
+0002
+0300
+0000
+",DRRR,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (2, 0), (1, 2)."
+"1032
+0000
+0030
+0000
+",LDRURR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (2, 0), (2, 2)."
+"1000
+0000
+0320
+3000
+",DLLRRD,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (1, 2), (0, 3)."
+"1000
+0000
+3002
+0300
+",RRDRD,"The agent is at (0, 0). The goal is at (3, 2). Obstacles are located at (0, 2), (1, 3)."
+"1000
+2300
+3000
+0000
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (1, 1), (0, 2)."
+"1200
+0000
+0303
+0000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (1, 2), (3, 2)."
+"1300
+2000
+0000
+3000
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (1, 0), (0, 3)."
+"1003
+2000
+0000
+0030
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (3, 0), (2, 3)."
+"1033
+0000
+0000
+2000
+",DRLDD,"The agent is at (0, 0). The goal is at (0, 3). Obstacles are located at (2, 0), (3, 0)."
+"1000
+0032
+0300
+0000
+",RRDR,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (2, 1), (1, 2)."
+"
+",,No agent found. No goal found. No obstacles present.
+"1200
+0300
+0030
+0000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (1, 1), (2, 2)."
+"1000
+0020
+0000
+0303
+",DRR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (1, 3), (3, 3)."
+"1030
+0000
+0200
+0003
+",DDR,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (2, 0), (3, 3)."
+"1030
+2000
+0030
+0000
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (2, 0), (2, 2)."
+"1300
+0000
+0032
+0000
+",DRDRR,"The agent is at (0, 0). The goal is at (3, 2). Obstacles are located at (1, 0), (2, 2)."
+"1030
+0000
+2003
+0000
+",DD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (2, 0), (3, 2)."
+"1000
+0200
+0000
+0033
+",DR,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (2, 3), (3, 3)."
+"
+",,No agent found. No goal found. No obstacles present.
+"1000
+2300
+0000
+0300
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (1, 1), (1, 3)."
+"1000
+0200
+0003
+3000
+",DR,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (3, 2), (0, 3)."
+"1030
+0020
+0000
+0300
+",DRR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (2, 0), (1, 3)."
+"1000
+0023
+3000
+0000
+",RDR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (3, 1), (0, 2)."
+"1000
+2000
+0003
+0300
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (3, 2), (1, 3)."
+"1000
+0203
+0030
+0000
+",RD,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (3, 1), (2, 2)."
+"1300
+0300
+0200
+0000
+",RDD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (1, 0), (1, 1)."
+"
+",,No agent found. No goal found. No obstacles present.
+"1002
+0000
+0300
+0003
+",DRURR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (1, 2), (3, 3)."
+"1003
+0003
+0020
+0000
+",UDRRD,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (3, 0), (3, 1)."
+"1002
+0000
+3000
+3000
+",RRR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (0, 2), (0, 3)."
+"1030
+0000
+0200
+3000
+",DDR,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (2, 0), (0, 3)."
+"1000
+0000
+2330
+0000
+",DD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (1, 2), (2, 2)."
+"1003
+0020
+0000
+0030
+",RRD,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (3, 0), (2, 3)."
+"1000
+0023
+0000
+0003
+",RDR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (3, 1), (3, 3)."
+"1300
+0000
+0000
+3002
+",DDRRDR,"The agent is at (0, 0). The goal is at (3, 3). Obstacles are located at (1, 0), (0, 3)."
+"1300
+0020
+0003
+0000
+",RDUDR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (1, 0), (3, 2)."
+"
+",,No agent found. No goal found. No obstacles present.
+"
+",,No agent found. No goal found. No obstacles present.
+"1020
+0000
+0030
+0300
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (2, 2), (1, 3)."
+"1000
+0032
+3000
+0000
+",RRDR,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (2, 1), (0, 2)."
+"1000
+3200
+0030
+0000
+",LDR,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (0, 1), (2, 2)."
+"1000
+0000
+0233
+0000
+",RDD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (2, 2), (3, 2)."
+"1003
+3200
+0000
+0000
+",UDR,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (3, 0), (0, 1)."
+"1233
+0000
+0000
+0000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (2, 0), (3, 0)."
+"1033
+0000
+2000
+0000
+",DD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (2, 0), (3, 0)."
+"1332
+0000
+0000
+0000
+",DRRRU,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (1, 0), (2, 0)."
+"1002
+0303
+0000
+0000
+",RRUR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (1, 1), (3, 1)."
+"1003
+0000
+0203
+0000
+",DRD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (3, 0), (3, 2)."
+"1000
+0000
+0000
+3203
+",DDRD,"The agent is at (0, 0). The goal is at (1, 3). Obstacles are located at (0, 3), (3, 3)."
+"1200
+0000
+3003
+0000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (0, 2), (3, 2)."
+"1000
+0002
+3300
+0000
+",DRRR,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (0, 2), (1, 2)."
+"1020
+0300
+0300
+0000
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (1, 1), (1, 2)."
+"1000
+0020
+3000
+0030
+",RRD,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (0, 2), (2, 3)."
+"1003
+0200
+0000
+0003
+",DR,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (3, 0), (3, 3)."
+"1000
+0200
+0030
+0003
+",DR,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (2, 2), (3, 3)."
+"1000
+2000
+0330
+0000
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (1, 2), (2, 2)."
+"1000
+0000
+0020
+0303
+",RDRD,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (1, 3), (3, 3)."
+"1000
+0002
+0030
+3000
+",RURDR,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (2, 2), (0, 3)."
+"1002
+0000
+0003
+3000
+",RRR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (3, 2), (0, 3)."
+"1000
+3030
+0000
+0200
+",URDDD,"The agent is at (0, 0). The goal is at (1, 3). Obstacles are located at (0, 1), (2, 1)."
+"1000
+0000
+0332
+0000
+",DRRRD,"The agent is at (0, 0). The goal is at (3, 2). Obstacles are located at (1, 2), (2, 2)."
+"1003
+0000
+0020
+0003
+",DRRD,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (3, 0), (3, 3)."
+"1002
+0030
+0000
+0030
+",RRR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (2, 1), (2, 3)."
+"1323
+0000
+0000
+0000
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (1, 0), (3, 0)."
+"1203
+3000
+0000
+0000
+",DUR,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (3, 0), (0, 1)."
+"1003
+0020
+3000
+0000
+",DRR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (3, 0), (0, 2)."
+"1000
+0303
+2000
+0000
+",URUDDL,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (1, 1), (3, 1)."
+"1000
+0000
+0200
+0303
+",DDUDR,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (1, 3), (3, 3)."
+"1000
+2000
+3030
+0000
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (0, 2), (2, 2)."
+"1002
+0000
+0000
+0033
+",LRRR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (2, 3), (3, 3)."
+"
+",,No agent found. No goal found. No obstacles present.
+"1000
+0000
+0020
+3003
+",DRDR,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (0, 3), (3, 3)."
+"1000
+0320
+0000
+3000
+",LRRD,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (1, 1), (0, 3)."
+"1000
+3000
+0023
+0000
+",RDRD,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (0, 1), (3, 2)."
+"1003
+3000
+0000
+0020
+",DDRDR,"The agent is at (0, 0). The goal is at (2, 3). Obstacles are located at (3, 0), (0, 1)."
+"1302
+0000
+0000
+0030
+",RRR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (1, 0), (2, 3)."
+"1030
+0020
+0000
+0003
+",DDRRU,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (2, 0), (3, 3)."
+"1000
+2003
+3000
+0000
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (3, 1), (0, 2)."
+"1320
+0000
+3000
+0000
+",DRRU,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (1, 0), (0, 2)."
+"1020
+0000
+3000
+0030
+",URR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (0, 2), (2, 3)."
+"1200
+0003
+0000
+3000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (3, 1), (0, 3)."
+"1000
+0200
+3000
+0003
+",DR,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (0, 2), (3, 3)."
+"1003
+0002
+0000
+0003
+",DDURRR,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (3, 0), (3, 3)."
+"1023
+0000
+0000
+0030
+",UDRRU,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (3, 0), (2, 3)."
+"1200
+0003
+0000
+0003
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (3, 1), (3, 3)."
+"1000
+0000
+0200
+0033
+",DDR,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (2, 3), (3, 3)."
+"1000
+0000
+2030
+0030
+",DD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (2, 2), (2, 3)."
+"1330
+0000
+0000
+2000
+",DDD,"The agent is at (0, 0). The goal is at (0, 3). Obstacles are located at (1, 0), (2, 0)."
+"1000
+0000
+3003
+0200
+",DURDDD,"The agent is at (0, 0). The goal is at (1, 3). Obstacles are located at (0, 2), (3, 2)."
+"1000
+0000
+2300
+3000
+",DD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (1, 2), (0, 3)."
+"1200
+0300
+0300
+0000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (1, 1), (1, 2)."
+"1020
+3300
+0000
+0000
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (0, 1), (1, 1)."
+"1000
+3020
+0300
+0000
+",RRD,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (0, 1), (1, 2)."
+"1003
+0030
+0002
+0000
+",DDRRR,"The agent is at (0, 0). The goal is at (3, 2). Obstacles are located at (3, 0), (2, 1)."
+"1020
+0030
+0003
+0000
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (2, 1), (3, 2)."
+"1000
+2300
+0000
+3000
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (1, 1), (0, 3)."
+"1000
+0000
+3032
+0000
+",RDRRD,"The agent is at (0, 0). The goal is at (3, 2). Obstacles are located at (0, 2), (2, 2)."
+"1000
+0230
+0000
+3000
+",RD,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (2, 1), (0, 3)."
+"1000
+0000
+3030
+0200
+",RDDD,"The agent is at (0, 0). The goal is at (1, 3). Obstacles are located at (0, 2), (2, 2)."
+"1003
+0000
+2000
+3000
+",DD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (3, 0), (0, 3)."
+"1230
+0003
+0000
+0000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (2, 0), (3, 1)."
+"1000
+2000
+3030
+0000
+",LD,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (0, 2), (2, 2)."
+"1020
+0030
+0000
+3000
+",LRR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (2, 1), (0, 3)."
+"1002
+0030
+0000
+0003
+",RRR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (2, 1), (3, 3)."
+"1030
+0000
+0023
+0000
+",DLLRDR,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (2, 0), (3, 2)."
+"1003
+0023
+0000
+0000
+",RRD,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (3, 0), (3, 1)."
+"1020
+0000
+0000
+3030
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (0, 3), (2, 3)."
+"1200
+3000
+0000
+0300
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (0, 1), (1, 3)."
+"1000
+0030
+0020
+0300
+",RDDR,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (2, 1), (1, 3)."
+"1000
+0002
+0300
+0003
+",RRRD,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (1, 2), (3, 3)."
+"1003
+2000
+0030
+0000
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (3, 0), (2, 2)."
+"1020
+3000
+0000
+0030
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (0, 1), (2, 3)."
+"1203
+0000
+0003
+0000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (3, 0), (3, 2)."
+"1000
+3000
+0023
+0000
+",RRDD,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (0, 1), (3, 2)."
+"1000
+0233
+0000
+0000
+",RD,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (2, 1), (3, 1)."
+"1030
+0000
+0003
+2000
+",DDD,"The agent is at (0, 0). The goal is at (0, 3). Obstacles are located at (2, 0), (3, 2)."
+"1000
+2330
+0000
+0000
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (1, 1), (2, 1)."
+"1020
+0030
+0300
+0000
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (2, 1), (1, 2)."
+"1000
+3020
+0000
+3000
+",RRD,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (0, 1), (0, 3)."
+"1030
+0203
+0000
+0000
+",DR,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (2, 0), (3, 1)."
+"1003
+2300
+0000
+0000
+",LD,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (3, 0), (1, 1)."
+"1300
+0020
+0000
+0003
+",RUDR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (1, 0), (3, 3)."
+"1000
+0030
+0203
+0000
+",LRDD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (2, 1), (3, 2)."
+"1003
+0000
+0020
+3000
+",DRDR,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (3, 0), (0, 3)."
+"1003
+0002
+3000
+0000
+",LDRRR,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (3, 0), (0, 2)."
+"1000
+0200
+3000
+0030
+",RD,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (0, 2), (2, 3)."
+"1000
+2000
+0000
+0303
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (1, 3), (3, 3)."
+"1033
+0200
+0000
+0000
+",DR,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (2, 0), (3, 0)."
+"1000
+0002
+0003
+0003
+",RDRR,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (3, 2), (3, 3)."
+"1000
+0000
+3023
+0000
+",RDRD,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (0, 2), (3, 2)."
+"
+",,No agent found. No goal found. No obstacles present.
+"1200
+0003
+0000
+3000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (3, 1), (0, 3)."
+"1002
+0030
+0000
+0030
+",RRR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (2, 1), (2, 3)."
+"1000
+2003
+0003
+0000
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (3, 1), (3, 2)."
+"1300
+0000
+2003
+0000
+",DD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (1, 0), (3, 2)."
+"1000
+0020
+0030
+0003
+",RDR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (2, 2), (3, 3)."
+"1000
+0000
+2300
+0300
+",DD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (1, 2), (1, 3)."
+"1020
+3300
+0000
+0000
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (0, 1), (1, 1)."
+"1000
+3000
+2000
+0030
+",DD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (0, 1), (2, 3)."
+"1000
+3002
+3000
+0000
+",RRRD,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (0, 1), (0, 2)."
+"1300
+0020
+0000
+3000
+",DRURD,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (1, 0), (0, 3)."
+"1000
+2000
+0003
+3000
+",LD,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (3, 2), (0, 3)."
+"1003
+0030
+0000
+2000
+",DDD,"The agent is at (0, 0). The goal is at (0, 3). Obstacles are located at (3, 0), (2, 1)."
+"1000
+0000
+2030
+0030
+",DD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (2, 2), (2, 3)."
+"1300
+0200
+0000
+0300
+",RD,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (1, 0), (1, 3)."
+"1003
+0000
+0200
+0300
+",DDR,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (3, 0), (1, 3)."
+"1003
+0000
+0000
+0203
+",DDRUDD,"The agent is at (0, 0). The goal is at (1, 3). Obstacles are located at (3, 0), (3, 3)."
+"1000
+0302
+0000
+0003
+",RRRD,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (1, 1), (3, 3)."
+"
+",,No agent found. No goal found. No obstacles present.
+"1000
+0000
+0000
+3023
+",RDRDD,"The agent is at (0, 0). The goal is at (2, 3). Obstacles are located at (0, 3), (3, 3)."
+"1000
+0000
+2300
+0300
+",DD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (1, 2), (1, 3)."
+"1003
+0000
+0002
+0030
+",DDRRR,"The agent is at (0, 0). The goal is at (3, 2). Obstacles are located at (3, 0), (2, 3)."
+"1030
+0000
+0020
+0300
+",DRDR,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (2, 0), (1, 3)."
+"1200
+3000
+0300
+0000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (0, 1), (1, 2)."
+"1000
+0200
+0030
+3000
+",RD,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (2, 2), (0, 3)."
+"1000
+2300
+0300
+0000
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (1, 1), (1, 2)."
+"1330
+0000
+0000
+0200
+",DDRD,"The agent is at (0, 0). The goal is at (1, 3). Obstacles are located at (1, 0), (2, 0)."
+"1233
+0000
+0000
+0000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (2, 0), (3, 0)."
+"1000
+0000
+0200
+0303
+",RDRDL,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (1, 3), (3, 3)."
+"1000
+2000
+0000
+0033
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (2, 3), (3, 3)."
+"1000
+0020
+3030
+0000
+",DRR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (0, 2), (2, 2)."
+"1000
+0200
+0000
+0033
+",RD,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (2, 3), (3, 3)."
+"1003
+0000
+0002
+0030
+",UDDRRR,"The agent is at (0, 0). The goal is at (3, 2). Obstacles are located at (3, 0), (2, 3)."
+"1000
+0002
+3030
+0000
+",DRRR,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (0, 2), (2, 2)."
+"1000
+0000
+2030
+0030
+",DD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (2, 2), (2, 3)."
+"
+",,No agent found. No goal found. No obstacles present.
+"1000
+2030
+0000
+0300
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (2, 1), (1, 3)."
+"1003
+0000
+0000
+2003
+",DDD,"The agent is at (0, 0). The goal is at (0, 3). Obstacles are located at (3, 0), (3, 3)."
+"1000
+3030
+0002
+0000
+",RRDRD,"The agent is at (0, 0). The goal is at (3, 2). Obstacles are located at (0, 1), (2, 1)."
+"1300
+0002
+0000
+0003
+",DRRR,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (1, 0), (3, 3)."
+"
+",,No agent found. No goal found. No obstacles present.
+"1000
+0000
+0003
+0203
+",DRDD,"The agent is at (0, 0). The goal is at (1, 3). Obstacles are located at (3, 2), (3, 3)."
+"1030
+3002
+0000
+0000
+",DDRRUR,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (2, 0), (0, 1)."
+"1000
+0020
+0033
+0000
+",RRD,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (2, 2), (3, 2)."
+"
+",,No agent found. No goal found. No obstacles present.
+"1003
+0200
+0000
+3000
+",DR,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (3, 0), (0, 3)."
+"1030
+0203
+0000
+0000
+",DR,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (2, 0), (3, 1)."
+"1033
+0000
+0020
+0000
+",DDRR,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (2, 0), (3, 0)."
+"1030
+3000
+0000
+0020
+",DDDRR,"The agent is at (0, 0). The goal is at (2, 3). Obstacles are located at (2, 0), (0, 1)."
+"1000
+0003
+0020
+0030
+",DDRR,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (3, 1), (2, 3)."
+"1003
+0000
+3200
+0000
+",DRD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (3, 0), (0, 2)."
+"1000
+0002
+0000
+0330
+",DDRURR,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (1, 3), (2, 3)."
+"1000
+2000
+3000
+3000
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (0, 2), (0, 3)."
+"1003
+0020
+0003
+0000
+",DRR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (3, 0), (3, 2)."
+"1000
+0023
+0003
+0000
+",RRD,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (3, 1), (3, 2)."
+"1030
+2000
+0300
+0000
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (2, 0), (1, 2)."
+"1003
+0002
+0000
+3000
+",DRRR,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (3, 0), (0, 3)."
+"1003
+0200
+0030
+0000
+",DLR,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (3, 0), (2, 2)."
+"1020
+0000
+0000
+3300
+",RLRR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (0, 3), (1, 3)."
+"1300
+0000
+2030
+0000
+",DD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (1, 0), (2, 2)."
+"1000
+0000
+0000
+2033
+",RDDLD,"The agent is at (0, 0). The goal is at (0, 3). Obstacles are located at (2, 3), (3, 3)."
+"1030
+0000
+0023
+0000
+",DRRD,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (2, 0), (3, 2)."
+"1300
+2000
+0003
+0000
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (1, 0), (3, 2)."
+"1000
+0000
+0233
+0000
+",DRD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (2, 2), (3, 2)."
+"1000
+2000
+3300
+0000
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (0, 2), (1, 2)."
+"1030
+0003
+0000
+0200
+",UDDDLR,"The agent is at (0, 0). The goal is at (1, 3). Obstacles are located at (2, 0), (3, 1)."
+"1000
+0020
+0030
+0030
+",DRR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (2, 2), (2, 3)."
+"1020
+0300
+0000
+0003
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (1, 1), (3, 3)."
+"1020
+0330
+0000
+0000
+",URR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (1, 1), (2, 1)."
+"1003
+0020
+0000
+3000
+",DDULRR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (3, 0), (0, 3)."
+"1000
+0000
+0020
+0303
+",RDDR,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (1, 3), (3, 3)."
+"1200
+0030
+0000
+3000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (2, 1), (0, 3)."
+"1020
+0000
+3000
+3000
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (0, 2), (0, 3)."
+"1032
+3000
+0000
+0000
+",DUURRR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (2, 0), (0, 1)."
+"1000
+0230
+0300
+0000
+",RD,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (2, 1), (1, 2)."
+"1002
+3300
+0000
+0000
+",RRR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (0, 1), (1, 1)."
+"1230
+0000
+0003
+0000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (2, 0), (3, 2)."
+"1033
+0000
+0000
+2000
+",DRDLD,"The agent is at (0, 0). The goal is at (0, 3). Obstacles are located at (2, 0), (3, 0)."
+"1200
+0330
+0000
+0000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (1, 1), (2, 1)."
+"1000
+0203
+0030
+0000
+",RD,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (3, 1), (2, 2)."
+"1000
+3000
+0002
+0003
+",RDDRR,"The agent is at (0, 0). The goal is at (3, 2). Obstacles are located at (0, 1), (3, 3)."
+"1020
+3000
+0000
+0003
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (0, 1), (3, 3)."
+"1000
+0302
+0000
+0003
+",RDRR,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (1, 1), (3, 3)."
+"1030
+0200
+0000
+0030
+",DR,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (2, 0), (2, 3)."
+"1000
+0000
+0302
+3000
+",DRRDR,"The agent is at (0, 0). The goal is at (3, 2). Obstacles are located at (1, 2), (0, 3)."
+"1000
+0000
+2303
+0000
+",DD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (1, 2), (3, 2)."
+"1000
+0000
+0023
+0003
+",RRDD,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (3, 2), (3, 3)."
+"1300
+0200
+0000
+0030
+",RD,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (1, 0), (2, 3)."
+"1002
+0000
+3000
+0030
+",RRR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (0, 2), (2, 3)."
+"1200
+0030
+0003
+0000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (2, 1), (3, 2)."
+"1000
+0000
+3020
+0300
+",DRRRLD,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (0, 2), (1, 3)."
+"
+",,No agent found. No goal found. No obstacles present.
+"1200
+0000
+3000
+3000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (0, 2), (0, 3)."
+"1200
+0000
+3000
+3000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (0, 2), (0, 3)."
+"1000
+0200
+3000
+0003
+",RD,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (0, 2), (3, 3)."
+"
+",,No agent found. No goal found. No obstacles present.
+"1003
+0000
+0203
+0000
+",DRD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (3, 0), (3, 2)."
+"1200
+0003
+0300
+0000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (3, 1), (1, 2)."
+"1030
+3000
+2000
+0000
+",DD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (2, 0), (0, 1)."
+"1000
+0230
+0000
+3000
+",DLR,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (2, 1), (0, 3)."
+"1000
+0030
+3020
+0000
+",RRDD,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (2, 1), (0, 2)."
+"1320
+0000
+0300
+0000
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (1, 0), (1, 2)."
+"1300
+0020
+3000
+0000
+",DRR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (1, 0), (0, 2)."
+"1020
+0003
+0000
+0030
+",LRR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (3, 1), (2, 3)."
+"1023
+0000
+0000
+3000
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (3, 0), (0, 3)."
+"1030
+3000
+0000
+0002
+",DDRRDR,"The agent is at (0, 0). The goal is at (3, 3). Obstacles are located at (2, 0), (0, 1)."
+"1000
+3002
+3000
+0000
+",URURRD,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (0, 1), (0, 2)."
+"1000
+2030
+0000
+0300
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (2, 1), (1, 3)."
+"1000
+0230
+0000
+0300
+",UDR,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (2, 1), (1, 3)."
+"1000
+0020
+0300
+0003
+",RDR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (1, 2), (3, 3)."
+"1002
+0030
+0000
+0030
+",RRR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (2, 1), (2, 3)."
+"1000
+0000
+3230
+0000
+",RDD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (0, 2), (2, 2)."
+"1000
+0320
+0003
+0000
+",RRD,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (1, 1), (3, 2)."
+"1000
+0020
+0300
+0003
+",DRR,"The agent is at (0, 0). The goal is at (2, 1). Obstacles are located at (1, 2), (3, 3)."
+"1020
+0303
+0000
+0000
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (1, 1), (3, 1)."
+"1003
+0000
+0000
+3020
+",LDRDRD,"The agent is at (0, 0). The goal is at (2, 3). Obstacles are located at (3, 0), (0, 3)."
+"1300
+0032
+0000
+0000
+",DRURDR,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (1, 0), (2, 1)."
+"
+",,No agent found. No goal found. No obstacles present.
+"1000
+0302
+0300
+0000
+",RRRD,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (1, 1), (1, 2)."
+"1000
+0030
+3200
+0000
+",LLRDD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (2, 1), (0, 2)."
+"1000
+0000
+0300
+0203
+",DRDD,"The agent is at (0, 0). The goal is at (1, 3). Obstacles are located at (1, 2), (3, 3)."
+"1003
+0030
+0000
+2000
+",LUDDD,"The agent is at (0, 0). The goal is at (0, 3). Obstacles are located at (3, 0), (2, 1)."
+"1200
+3000
+3000
+0000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (0, 1), (0, 2)."
+"
+",,No agent found. No goal found. No obstacles present.
+"1200
+3000
+0030
+0000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (0, 1), (2, 2)."
+"1000
+0000
+0030
+2030
+",DDD,"The agent is at (0, 0). The goal is at (0, 3). Obstacles are located at (2, 2), (2, 3)."
+"1200
+0000
+3030
+0000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (0, 2), (2, 2)."
+"1002
+0300
+0000
+0300
+",RRR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (1, 1), (1, 3)."
+"1003
+0302
+0000
+0000
+",RDRR,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (3, 0), (1, 1)."
+"1000
+0030
+2003
+0000
+",RDDL,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (2, 1), (3, 2)."
+"1000
+0000
+0020
+3003
+",RDRD,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (0, 3), (3, 3)."
+"1000
+0200
+3000
+0030
+",RD,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (0, 2), (2, 3)."
+"1002
+0300
+0000
+3000
+",LRRR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (1, 1), (0, 3)."
+"1002
+3030
+0000
+0000
+",RRR,"The agent is at (0, 0). The goal is at (3, 0). Obstacles are located at (0, 1), (2, 1)."
+"1300
+0030
+0000
+0200
+",DDDR,"The agent is at (0, 0). The goal is at (1, 3). Obstacles are located at (1, 0), (2, 1)."
+"1003
+0000
+2000
+3000
+",DURLDD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (3, 0), (0, 3)."
+"1030
+0000
+2000
+0030
+",DD,"The agent is at (0, 0). The goal is at (0, 2). Obstacles are located at (2, 0), (2, 3)."
+"1000
+0330
+0020
+0000
+",RDRD,"The agent is at (0, 0). The goal is at (2, 2). Obstacles are located at (1, 1), (2, 1)."
+"1003
+0000
+0200
+0003
+",DRD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (3, 0), (3, 3)."
+"1200
+0000
+3003
+0000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (0, 2), (3, 2)."
+"1000
+2000
+0030
+3000
+",D,"The agent is at (0, 0). The goal is at (0, 1). Obstacles are located at (2, 2), (0, 3)."
+"1020
+0000
+0000
+0330
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (1, 3), (2, 3)."
+"
+",,No agent found. No goal found. No obstacles present.
+"1000
+0000
+0000
+3230
+",RDDD,"The agent is at (0, 0). The goal is at (1, 3). Obstacles are located at (0, 3), (2, 3)."
+"1000
+0302
+0000
+0003
+",RRURD,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (1, 1), (3, 3)."
+"1020
+0000
+0033
+0000
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (2, 2), (3, 2)."
+"1003
+0200
+0300
+0000
+",DR,"The agent is at (0, 0). The goal is at (1, 1). Obstacles are located at (3, 0), (1, 2)."
+"1000
+3002
+3000
+0000
+",RRRD,"The agent is at (0, 0). The goal is at (3, 1). Obstacles are located at (0, 1), (0, 2)."
+"1020
+0000
+0303
+0000
+",RR,"The agent is at (0, 0). The goal is at (2, 0). Obstacles are located at (1, 2), (3, 2)."
+"1200
+0300
+0300
+0000
+",R,"The agent is at (0, 0). The goal is at (1, 0). Obstacles are located at (1, 1), (1, 2)."
+"1000
+0030
+0203
+0000
+",RDD,"The agent is at (0, 0). The goal is at (1, 2). Obstacles are located at (2, 1), (3, 2)."
+"
+",,No agent found. No goal found. No obstacles present.
