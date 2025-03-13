@@ -14,15 +14,17 @@ def extract_answer(solution_str):
 
     return final_answer
 
-def compute_score(solution_str, current_map, format_score=0, score=1.):
+def compute_score(solution_str, current_map, format_score=0.05, score=1.):
     current_map = current_map.replace("\n", "")
     if(len(current_map) != 16):
         return 0
     reward = 0
     pattern = r"\s*<answer>.*?</answer>"
     match = re.match(pattern, solution_str)
-    if match:
-        reward = reward + format_score
+    if not match:
+        reward = reward - format_score
+    
+    reward = reward - 0.001 * abs(len(solution_str) - 512)
 
     answer = extract_answer(solution_str)
     if answer is None:
