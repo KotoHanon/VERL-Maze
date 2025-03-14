@@ -21,21 +21,32 @@ $\text{Reward} = I(\text{Verifier}(y)) - 0.2I(\text{FormatCheck}(y)) - 0.005|\te
 
 这在一定程度上可以促进exploration。
 
----
-
 ***2. QWen2.5-0.5B-Instruct with PPO***
 
 训练环境：A40单卡
 
 ![](https://img.picui.cn/free/2025/03/14/67d3d79016c4e.png)
 
-训练效果不如GRPO，主要可能是因为PPO需要去学习critic，在做credit assignment的过程需要一定的step预热。同时，我也发现：
+训练效果不如GRPO，主要可能是因为PPO需要去学习critic，在做credit assignment的过程需要一定的step预热。还有一种可能是（来自知乎[2]）：
+同时，我也发现：
 
 ![](https://img.picui.cn/free/2025/03/14/67d3d8d9c3004.png)
 
 0.5B在给出正确答案的同时也给出了正确的推理过程！看来这与我上面对credit assignment的分析比较一致。
 
+***3. QWen2.5-1.5B-Instruct with GRPO***
 
+训练环境：A100(80G)单卡
+
+![](https://img.picui.cn/free/2025/03/15/67d45a842f927.png)
+
+和0.5B的训练曲线相比，最显著的一个差异就是1.5B的模型在做reasoning上明显不会那么偷懒。但仍然存在的问题是：
+
+![](https://img.picui.cn/free/2025/03/15/67d45c73a45df.png)
+
+reasoning过程有错误（相比于0.5B的连智能体位置都推理错了，1.5B“仅仅”是把两个障碍物的位置推理错了），但结果是对的。这个问题可能还是我前面分析的：GRPO的credit assignment问题。
+
+---
 
 **References**
 
