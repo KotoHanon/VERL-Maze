@@ -4,6 +4,8 @@
 
 ***1. QWen2.5-0.5B-Instruct with GRPO***
 
+训练环境：4090单卡
+
 ![](https://img.picui.cn/free/2025/03/13/67d2fd193e411.png)
 
 可以看见训练效果还是比较理想，在只训了75个steps的情况下的正确率已经挺高了。但是我在观测LM的reasoning output时发现：
@@ -20,6 +22,20 @@ $\text{Reward} = I(\text{Verifier}(y)) - 0.2I(\text{FormatCheck}(y)) - 0.005|\te
 这在一定程度上可以促进exploration。
 
 ---
+
+***2. QWen2.5-0.5B-Instruct with PPO***
+
+训练环境：A40单卡
+
+![](https://img.picui.cn/free/2025/03/14/67d3d79016c4e.png)
+
+训练效果不如GRPO，主要可能是因为PPO需要去学习critic，在做credit assignment的过程需要一定的step预热。同时，我也发现：
+
+![](https://img.picui.cn/free/2025/03/14/67d3d8d9c3004.png)
+
+0.5B在给出正确答案的同时也给出了正确的推理过程！看来这与我上面对credit assignment的分析比较一致。
+
+
 
 **References**
 
