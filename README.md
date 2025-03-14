@@ -28,6 +28,8 @@ $\text{Reward} = I(\text{Verifier}(y)) - 0.2I(\text{FormatCheck}(y)) - 0.005|\te
 ![](https://img.picui.cn/free/2025/03/14/67d3d79016c4e.png)
 
 训练效果不如GRPO，主要可能是因为PPO需要去学习critic，在做credit assignment的过程需要一定的step预热。还有一种可能是（来自知乎[2]）：
+因为策略梯度本质上是贝尔曼方程，reward 的调整会通过 TD-error 作用到更早的时间步，传递的长度受 gae 参数 lambda, gamma 影响。而 TRPO, PPO 将对数比作用在损失及梯度上只会影响当前状态的策略输出，虽然最终也能通过状态价值间接影响到时间序列之前的状态，但作用并不直接。在 LLM 微调的场景，时间步就是文本的序列，每个位置的 token 是序列中之前所有 token 做为输入的预测。如果希望当前位置的 token 输出不要太偏离预训练模型，仅仅控制当前位置输出可能是不够的，必须干扰序列前方的 token，才能更好的控制当前位置的 token 生成。 RL 的 reward 能通过 gae 影响到前面位置的 gae 进而影响到前面位置的 token 生成策略，相比只控制当前位置的梯度，作用更直接，因而能更好的实现微调同时不偏离预训练的效果。
+
 同时，我也发现：
 
 ![](https://img.picui.cn/free/2025/03/14/67d3d8d9c3004.png)
@@ -51,3 +53,7 @@ reasoning过程有错误（相比于0.5B的连智能体位置都推理错了，1
 **References**
 
 [1] Aggarwal, Pranjal, and Sean Welleck. "L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning." arXiv preprint arXiv:2503.04697 (2025).
+
+[2] 在强化学习 PPO 算法中，为什么可以把 KL 散度直接放进负奖励？ 答主：Yunfei Liu https://www.zhihu.com/question/629107126/answer/3353465906
+
+
