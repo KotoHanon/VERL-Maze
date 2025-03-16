@@ -1,4 +1,4 @@
-# 基于简单动态迷宫环境的小模型推理能力训练
+![image](https://github.com/user-attachments/assets/410a9699-e00a-4acb-9191-23e608417e4f)# 基于简单动态迷宫环境的小模型推理能力训练
 
 动态迷宫环境来自https://github.com/KotoHanon/LLM-Reasoning-Maze
 
@@ -47,6 +47,14 @@ $\text{Reward} = I(\text{Verifier}(y)) - 0.2I(\text{FormatCheck}(y)) - 0.005|\te
 ![](https://img.picui.cn/free/2025/03/15/67d45c73a45df.png)
 
 reasoning过程有错误（相比于0.5B的连智能体位置都推理错了，1.5B“仅仅”是把两个障碍物的位置推理错了），但结果是对的。这个问题可能还是我前面分析的：GRPO的credit assignment问题。
+
+***4. QWen2.5-1.5B-Instruct with PPO***
+
+训练环境：A100(80G)双卡
+
+![](https://img.picui.cn/free/2025/03/17/67d700d3a931e.png)
+
+![](https://img.picui.cn/free/2025/03/17/67d701a47d2e1.png)
 
 ---
 
