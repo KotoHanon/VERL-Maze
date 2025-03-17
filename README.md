@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/410a9699-e00a-4acb-9191-23e608417e4f)# 基于简单动态迷宫环境的小模型推理能力训练
+# 基于简单动态迷宫环境的小模型推理能力训练
 
 动态迷宫环境来自https://github.com/KotoHanon/LLM-Reasoning-Maze
 
