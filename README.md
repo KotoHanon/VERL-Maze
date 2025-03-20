@@ -58,7 +58,7 @@ reasoning过程有错误（相比于0.5B的连智能体位置都推理错了，1
 
 老实说，这个效果离我的预期有点远。更令我感到疑惑的是：QWen2.5-1.5B-Instruct似乎连我的prompt都理解错了，它有时会把每个动作代表的字母搞乱，这也许是它效果如此差的原因之一。我在想，是否是因为模型的参数少了，导致不能正确地理解我的prompt呢？然而，我现在手上没有更多的算力，我预感使用7B的version效果一定会更好，至少不会直接出现如此严重的hallucination。等以后有机会再研究7B的情况吧。
 
-最后，我再尝试分析一下为什么GRPO的效果比PPO好了这么多。我觉得还是和PPO的critic有关，因为critic的TD特性，这使得error可以传播到当前token**前面**的每一个token上，而GRPO不会，它根本就不会去做credit assignment，属于**是就是，不是就不是**的问题。感觉这有点像Model-based和Model-free的performance gap。
+最后，我再尝试分析一下为什么GRPO的效果比PPO好了这么多。我觉得还是和PPO的critic有关，因为critic的TD特性，这使得error可以传播到当前token**前面**的每一个token上，而GRPO不会，它根本就不会去做credit assignment，属于**是就是，不是就不是**的问题。感觉这有点像Model-based和Model-free的performance gap。还有一种可能是：我在上面设计的rule-based reward中，把optimal reponse length设为了512，这也许会导致一些问题。因为一些研究[3]表明，推理token数量的过度增加反而会抑制推理表现。
 
 ---
 
@@ -67,5 +67,7 @@ reasoning过程有错误（相比于0.5B的连智能体位置都推理错了，1
 [1] Aggarwal, Pranjal, and Sean Welleck. "L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning." arXiv preprint arXiv:2503.04697 (2025).
 
 [2] 在强化学习 PPO 算法中，为什么可以把 KL 散度直接放进负奖励？ 答主：Yunfei Liu https://www.zhihu.com/question/629107126/answer/3353465906
+
+[3] Ballon, Marthe, Andres Algaba, and Vincent Ginis. "The Relationship Between Reasoning and Performance in Large Language Models--o3 (mini) Thinks Harder, Not Longer." arXiv preprint arXiv:2502.15631 (2025).
 
 
